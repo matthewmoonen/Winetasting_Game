@@ -5,4 +5,4 @@ The script prompts users to create a double-blinded experiment where names of wi
 
 With an impartial observer completing the labelling, a double-blinded expermental model is created.
 
-Future versions will calculate a "winner", and the data can be used for statistical analysis.
+Future versions will allow users to enter scores and calculate a "winner", and the data can be used for statistical analysis.
